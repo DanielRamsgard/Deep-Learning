@@ -8,4 +8,4 @@ The following are privately stored in another repository for reasons pertaining 
 5. Deep learning model for a Music Genre Classifier
 6. Power spectrogram extraction
 7. Mel spectrogram extraction
-8. Mel frequency ceptral coefficients (comprehensive)
+8. Mel frequency cepstral coefficients (comprehensive)
