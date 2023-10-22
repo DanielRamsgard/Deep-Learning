@@ -1,5 +1,5 @@
 # Deep-Learning
-The following are privately stored in another repository for reasons pertaining to intellectual property rights and copy right
+The following are privately stored in another repository for reasons pertaining to intellectual property rights and copy right:
 
 1. Audio data preprocessing
 2. Audo feature extraction techniques
