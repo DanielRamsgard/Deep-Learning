@@ -10,3 +10,5 @@ The following are privately stored in another repository for reasons pertaining 
 7. Power spectrogram extraction
 8. Mel spectrogram extraction
 9. Mel frequency cepstral coefficients (comprehensive)
+10. Audio keyword spotting service (DL model)
+11. Extensive preprocessing for DL
