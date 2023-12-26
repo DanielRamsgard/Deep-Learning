@@ -1,4 +1,5 @@
 # Deep-Learning
+I currently have 15 working directories, containing both private and public files.
 The following are privately stored in another repository for reasons pertaining to intellectual property rights and copy right:
 
 1. Audio data preprocessing
