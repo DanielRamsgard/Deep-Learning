@@ -14,4 +14,4 @@ The following files and repositories are privately stored in another repository 
 10. Audio keyword spotting service (DL model)
 11. Extensive preprocessing for DL
 12. Advanced Beamformer for DoA
-13. Ramsgard Technologies files and repos (Extensive amount of audio signal processing, data augmentation, and deep learning files)
+13. Ramsgard Technologies files and repos (Extensive amount of audio signal processing, data augmentation, real-time object detection, audio classification, RF finger printing, and deep learning files)
